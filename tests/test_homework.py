@@ -4,7 +4,7 @@ import os
 
 import pandas as pd  # type: ignore
 
-from homework.country_collaboration import make_plot
+from homework.country_colaboration import make_plot
 
 
 def test_01():
